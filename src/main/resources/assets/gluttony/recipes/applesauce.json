@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SAS",
+        " B "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:sugar"
+        },
+        "B":
+        {
+            "item": "minecraft:bowl"
+        },
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:applesauce",
+        "count": 1
+    }
+}

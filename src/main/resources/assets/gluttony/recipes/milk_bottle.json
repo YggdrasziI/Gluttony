@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BMB",
+        " B "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        "M":
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:milk_bottle",
+        "count": 3
+    }
+}

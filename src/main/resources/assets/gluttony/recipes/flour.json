@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wheat"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:flour",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BPC"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "gluttony:rye_bread"
+        },
+        "P":
+        {
+            "item": "gluttony:buttered_porkchop"
+        },
+        "C":
+        {
+            "item": "gluttony:cheese"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:jambonfromageseiglesandwich",
+        "count": 1
+    }
+}

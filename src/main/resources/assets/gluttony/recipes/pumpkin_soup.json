@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "B"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "minecraft:pumpkin"
+        },
+        "B":
+        {
+            "item": "minecraft:bowl"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:pumpkin_soup",
+        "count": 1
+    }
+}

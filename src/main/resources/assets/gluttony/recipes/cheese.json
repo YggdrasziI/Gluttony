@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MS"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "gluttony:milk_bottle"
+        },
+        "S":
+        {
+            "item": "gluttony:salt"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:cheese",
+        "count": 1
+    }
+}

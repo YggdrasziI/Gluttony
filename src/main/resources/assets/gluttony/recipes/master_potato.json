@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "gluttony:big_potato"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:master_potato",
+        "count": 1
+    }
+}

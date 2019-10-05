@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SAM",
+        "FEB"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "minecraft:egg"
+        },
+        "S":
+        {
+            "item": "minecraft:sugar"
+        },
+        "B":
+        {
+        	"item": "gluttony:butter"
+        },
+        "A":
+        {
+            "item": "minecraft:apple"
+        },
+        "F":
+        {
+            "item": "gluttony:flour"
+        },
+		"M":
+		{
+			"item": "gluttony:milk_bottle"
+		}
+		
+    },
+    
+    "result":
+    {
+        "item": "gluttony:apple_pie",
+        "count": 1
+    }
+}

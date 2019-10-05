@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MCM",
+        "ESE",
+        "FFF"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "gluttony:milk_bottle"
+        },
+        "C":
+        {
+            "item": "gluttony:cocoa_powder"
+        },
+        "F":
+        {
+            "item": "gluttony:flour"
+        },
+        "E":
+        {
+            "item": "minecraft:egg"
+        },
+        "S":
+        {
+            "item": "minecraft:sugar"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:chocolate_cake",
+        "count": 1
+    }
+}

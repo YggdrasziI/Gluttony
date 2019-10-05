@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MB"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "minecraft:mutton"
+        },
+        "B":
+        {
+            "item": "gluttony:butter"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:buttered_mutton",
+        "count": 1
+    }
+}

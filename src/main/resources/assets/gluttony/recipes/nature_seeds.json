@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NSN",
+        "NNN"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "gluttony:nature_essence_block"
+        },
+        "S":
+        {
+            "item": "minecraft:wheat_seeds"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:nature_seeds",
+        "count": 1
+    }
+}

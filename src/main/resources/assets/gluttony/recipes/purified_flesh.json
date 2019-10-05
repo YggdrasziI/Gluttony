@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " N ",
+        "NRN",
+        " N "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "gluttony:nature_essence"
+        },
+        "R":
+        {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:purified_flesh",
+        "count": 1
+    }
+}

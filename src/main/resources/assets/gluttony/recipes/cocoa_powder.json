@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "gluttony:cocoa_powder",
+    "count": 2
+  },
+
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 3
+    }
+  ],
+  "type": "forge:ore_shapeless"
+}

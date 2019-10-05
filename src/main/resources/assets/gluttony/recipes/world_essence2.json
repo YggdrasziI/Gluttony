@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "U"
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "gluttony:universe_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:world_essence",
+        "count": 4
+    }
+}

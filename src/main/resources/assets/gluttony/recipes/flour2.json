@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "gluttony:barley"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:flour",
+        "count": 1
+    }
+}

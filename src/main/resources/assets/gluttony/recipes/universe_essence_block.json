@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "gluttony:universe_essence"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:universe_essence_block",
+        "count": 1
+    }
+}

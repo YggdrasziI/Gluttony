@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "gluttony:blocks/soy_plant0"
+    }
+}

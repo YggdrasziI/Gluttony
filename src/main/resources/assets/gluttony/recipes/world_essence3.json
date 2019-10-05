@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "gluttony:world_essence_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:world_essence",
+        "count": 9
+    }
+}

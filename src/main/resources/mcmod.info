@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gluttony",
+  "name": "Gluttony",
+  "description": "Eat everything.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zilkoniss"],
+  "credits": "I am hungry",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

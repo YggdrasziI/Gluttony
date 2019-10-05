@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "gluttony:rice"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:rice_flour",
+        "count": 2
+    }
+}

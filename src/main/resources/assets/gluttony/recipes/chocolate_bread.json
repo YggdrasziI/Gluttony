@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BCX"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bread"
+        },
+        "X":
+        {
+            "item": "gluttony:butter"
+        },
+        "C":
+        {
+            "item": "gluttony:milk_chocolate"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:chocolate_bread",
+        "count": 1
+    }
+}

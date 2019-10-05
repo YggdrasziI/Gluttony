@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CB ",
+        "MSW"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "gluttony:milk_bottle"
+        },
+        "C":
+        {
+            "item": "gluttony:cocoa_powder"
+        },
+        "W":
+        {
+            "item": "minecraft:water_bucket"
+        },
+        "S":
+        {
+            "item": "minecraft:sugar"
+        },
+        "B":
+        {
+        	"item": "gluttony:butter"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:chocolate",
+        "count": 1
+    }
+}

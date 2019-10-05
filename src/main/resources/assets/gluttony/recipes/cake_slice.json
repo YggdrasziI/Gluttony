@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cake"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:cake_slice",
+        "count": 8
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "gluttony:life_essence_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:life_essence",
+        "count": 9
+    }
+}

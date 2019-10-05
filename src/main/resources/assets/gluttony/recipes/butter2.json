@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "gluttony:milk_bottle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:butter",
+        "count": 2
+    }
+}

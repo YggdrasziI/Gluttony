@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MC"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "gluttony:hot_milk_bottle"
+        },
+        "C":
+        {
+            "item": "gluttony:cocoa_powder"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:chocolate_milk_bottle",
+        "count": 1
+    }
+}

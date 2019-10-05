@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MB"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "minecraft:porkchop"
+        },
+        "B":
+        {
+            "item": "gluttony:butter"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:buttered_porkchop",
+        "count": 1
+    }
+}

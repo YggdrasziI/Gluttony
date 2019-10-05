@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "gluttony:blocks/rice_plant0"
+    }
+}
