@@ -5,6 +5,7 @@ import java.util.List;
 
 import fr.zilkoniss.gluttony.GluttonyMod;
 import fr.zilkoniss.gluttony.objects.items.ItemBase;
+import fr.zilkoniss.gluttony.objects.items.ItemDriedKelp;
 import fr.zilkoniss.gluttony.objects.items.ItemNatureSeeds;
 import fr.zilkoniss.gluttony.objects.items.ItemRiceSeeds;
 import fr.zilkoniss.gluttony.objects.items.ItemRyeSeeds;
@@ -24,6 +25,7 @@ import fr.zilkoniss.gluttony.objects.items.GluttonyPotato6;
 import fr.zilkoniss.gluttony.objects.items.GluttonyPotato7;
 import fr.zilkoniss.gluttony.objects.items.GluttonyPotato8;
 import fr.zilkoniss.gluttony.objects.items.GluttonyPotato9;
+import fr.zilkoniss.gluttony.objects.items.ItemAboveWaterKelpSeeds;
 import fr.zilkoniss.gluttony.objects.items.ItemBarleySeeds;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.SoundEvents;
@@ -44,6 +46,7 @@ public class ItemsMod
     public static final Item BARLEY_SEEDS = new ItemBarleySeeds("barley_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item RICE_SEEDS = new ItemRiceSeeds("rice_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item NATURE_SEEDS = new ItemNatureSeeds("nature_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
+    public static final Item ABOVEWATER_KELP_SEEDS = new ItemAboveWaterKelpSeeds("abovewater_kelp_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     
     //Vegetables
     public static final Item SOYBEAN = new GluttonyItemFood("soybean", 2, 1.0F, true);
@@ -52,6 +55,9 @@ public class ItemsMod
     public static final Item GARLIC = new ItemBase("garlic").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item ONION = new ItemBase("onion").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item RICE = new ItemBase("rice").setCreativeTab(GluttonyMod.GLUTTONY);
+    public static final Item KELP = new ItemBase("kelp").setCreativeTab(GluttonyMod.GLUTTONY);
+    public static final Item DRIED_KELP = new ItemDriedKelp("dried_kelp").setCreativeTab(GluttonyMod.GLUTTONY);
+    public static final Item KELP_BOTTLE = new ItemBase("kelp_bottle").setCreativeTab(GluttonyMod.GLUTTONY);
     
     //Ingredients
     public static final Item FLOUR = new ItemBase("flour").setCreativeTab(GluttonyMod.GLUTTONY);
@@ -60,6 +66,7 @@ public class ItemsMod
     public static final Item SALT = new ItemBase("salt").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item COCOA_POWDER = new ItemBase("cocoa_powder").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item RICE_FLOUR = new ItemBase("rice_flour").setCreativeTab(GluttonyMod.GLUTTONY);
+    public static final Item VEGETABLE_GELATIN = new ItemBase("vegetable_gelatin").setCreativeTab(GluttonyMod.GLUTTONY);
     
     //Food
     public static final Item COOKED_SOYBEAN = new GluttonyItemFood("cooked_soybean", 4, 5.0F, false);
@@ -119,6 +126,4 @@ public class ItemsMod
     public static final Item GOD_POTATO = new GluttonyPotato8("god_potato", 9, 1.0F, false);
     public static final Item SECRET_POTATO = new GluttonyPotato9("secret_potato", 10, 1.1F, false);
     public static final Item STOP_IT_POTATO = new GluttonyPotato10("stop_it_potato", 100, 100F, false);
-            
-    //cp 5 6 - 1 0.2
 }

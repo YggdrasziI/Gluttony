@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "KB"
+    ],
+    
+    "key":
+    {
+        "K":
+        {
+            "item": "gluttony:kelp"
+        },
+        "B":
+        {
+            "item": "minecraft:bottle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:kelp_bottle",
+        "count": 1
+    }
+}

@@ -32,6 +32,8 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("foodFlour", ItemsMod.RICE_FLOUR);
         OreDictionary.registerOre("foodRiceFlour", ItemsMod.RICE_FLOUR);
         
+        OreDictionary.registerOre("seedAbovewaterkelp", ItemsMod.ABOVEWATER_KELP_SEEDS);
+        OreDictionary.registerOre("listAllseed", ItemsMod.ABOVEWATER_KELP_SEEDS);
         OreDictionary.registerOre("foodApplepie", ItemsMod.APPLE_PIE);
         OreDictionary.registerOre("foodApplesauce", ItemsMod.APPLESAUCE);
         OreDictionary.registerOre("cropBarley", ItemsMod.BARLEY);
@@ -68,6 +70,8 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("foodRicecooked", ItemsMod.COOKED_RICE);
         OreDictionary.registerOre("foodCookedsoybean", ItemsMod.COOKED_SOYBEAN);
         OreDictionary.registerOre("foodSoybeancooked", ItemsMod.COOKED_SOYBEAN);
+        OreDictionary.registerOre("itemDriedkelp", ItemsMod.DRIED_KELP);
+        OreDictionary.registerOre("blockDriedkelp", BlocksMod.DRIED_KELP);
         OreDictionary.registerOre("cropGarlic", ItemsMod.GARLIC);
         OreDictionary.registerOre("foodGrilledbeef", ItemsMod.GRILLED_BEEF);
         OreDictionary.registerOre("foodBeefgrilled", ItemsMod.GRILLED_BEEF);
@@ -78,6 +82,9 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("foodHotmilkbottle", ItemsMod.HOT_MILK_BOTTLE);
         OreDictionary.registerOre("foodJambonfromagesandwich", ItemsMod.JAMBON_FROMAGE);
         OreDictionary.registerOre("foodJambonfromageseiglesandwich", ItemsMod.JAMBON_FROMAGE_SEIGLE);
+        OreDictionary.registerOre("cropKelp", ItemsMod.KELP);
+        OreDictionary.registerOre("listAllveggie", ItemsMod.KELP);
+        OreDictionary.registerOre("itemKelpbottle", ItemsMod.KELP_BOTTLE);
         OreDictionary.registerOre("foodLifeapple", ItemsMod.LIFE_APPLE);
         OreDictionary.registerOre("foodLifessence", ItemsMod.LIFE_ESSENCE);
         OreDictionary.registerOre("blockLifeessence", BlocksMod.LIFE_ESSENCE_BLOCK);
@@ -90,6 +97,7 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("seedNature", ItemsMod.NATURE_SEEDS);
         OreDictionary.registerOre("listAllseed", ItemsMod.NATURE_SEEDS);
         OreDictionary.registerOre("cropOnion", ItemsMod.ONION);
+        OreDictionary.registerOre("listAllveggie", ItemsMod.ONION);
         OreDictionary.registerOre("foodPumpkinsoup", ItemsMod.PUMPKIN_SOUP);
         OreDictionary.registerOre("foodPurifiedflesh", ItemsMod.PURIFIED_FLESH);
         OreDictionary.registerOre("cropRice", ItemsMod.RICE);
@@ -112,6 +120,7 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("foodUniverseapple", ItemsMod.UNIVERSE_APPLE);
         OreDictionary.registerOre("foodUniverseessence", ItemsMod.UNIVERSE_ESSENCE);
         OreDictionary.registerOre("blockUniverseessence", BlocksMod.UNIVERSE_ESSENCE_BLOCK);
+        OreDictionary.registerOre("itemVegetablegelatin", ItemsMod.VEGETABLE_GELATIN);
         OreDictionary.registerOre("foodWorldapple", ItemsMod.WORLD_APPLE);
         OreDictionary.registerOre("foodWorldessence", ItemsMod.WORLD_ESSENCE);
         OreDictionary.registerOre("blockWorldessence", BlocksMod.WORLD_ESSENCE_BLOCK);

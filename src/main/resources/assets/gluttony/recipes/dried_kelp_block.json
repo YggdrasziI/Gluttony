@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "gluttony:dried_kelp"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gluttony:dried_kelp_block",
+        "count": 1
+    }
+}

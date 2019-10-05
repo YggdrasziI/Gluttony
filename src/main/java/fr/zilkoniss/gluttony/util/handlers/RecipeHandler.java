@@ -25,5 +25,7 @@ public class RecipeHandler
         GameRegistry.addSmelting(ItemsMod.SOYBEAN, new ItemStack(ItemsMod.COOKED_SOYBEAN, 1), 0.4F);
         GameRegistry.addSmelting(Items.CARROT, new ItemStack(ItemsMod.COOKED_CARROT, 1), 0.4F);
         GameRegistry.addSmelting(Items.APPLE, new ItemStack(ItemsMod.COOKED_APPLE, 1), 0.4F);
+        GameRegistry.addSmelting(ItemsMod.KELP, new ItemStack(ItemsMod.DRIED_KELP, 1), 0.1F);
+        GameRegistry.addSmelting(ItemsMod.KELP_BOTTLE, new ItemStack(ItemsMod.VEGETABLE_GELATIN, 1), 0.5F);
     }
 }

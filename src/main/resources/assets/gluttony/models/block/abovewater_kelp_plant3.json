@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "gluttony:blocks/abovewater_kelp_plant3"
+    }
+}

@@ -62,16 +62,23 @@ item.world_apple.name=§9World Apple
 item.universe_apple.name=§5Universe Apple
 item.rice.name=Rice
 item.cooked_rice.name=Cooked Rice
+item.abovewater_kelp_seeds.name=AboveWater Kelp Seeds
+item.kelp.name=Kelp
+item.dried_kelp.name=Dried Kelp
+item.kelp_bottle.name=Kelp in a Bottle
+item.vegetable_gelatin.name=Vegetable Gelatin
 
 //Tools
 
 //Block
 tile.salt_block.name=Salt Block
+tile.dried_kelp_block.name=Dried Kelp
 tile.rye_plant.name=Rye Plant
 tile.soy_plant.name=Soy Plant
 tile.barley_plant.name=Barley Plant
 tile.nature_plant.name=Nature Plant
 tile.rice_plant.name=Rice Plant
+tile.abovewater_kelp_plant.name=AboveWater Kelp
 
 tile.nature_essence_block.name=§2Nature Essence Block
 tile.life_essence_block.name=§4Life Essence Block
