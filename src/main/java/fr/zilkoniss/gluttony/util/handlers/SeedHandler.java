@@ -15,6 +15,5 @@ public class SeedHandler
         MinecraftForge.addGrassSeed(new ItemStack(ItemsMod.RYE_SEEDS, 1), 8);
         MinecraftForge.addGrassSeed(new ItemStack(ItemsMod.SOY_SEEDS, 1), 8);
         MinecraftForge.addGrassSeed(new ItemStack(ItemsMod.RICE_SEEDS, 1), 8);
-        MinecraftForge.addGrassSeed(new ItemStack(ItemsMod.NATURE_ESSENCE, 1), 1);
     }
 }

@@ -56,7 +56,7 @@ public class BlockAboveWaterKelpPlant extends BlockCrops
     @Override
     protected Item getCrop()
     {
-        return ItemsMod.NATURE_ESSENCE;
+        return ItemsMod.KELP;
     }
     
     @Override

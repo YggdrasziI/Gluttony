@@ -85,17 +85,9 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("cropKelp", ItemsMod.KELP);
         OreDictionary.registerOre("listAllveggie", ItemsMod.KELP);
         OreDictionary.registerOre("itemKelpbottle", ItemsMod.KELP_BOTTLE);
-        OreDictionary.registerOre("foodLifeapple", ItemsMod.LIFE_APPLE);
-        OreDictionary.registerOre("foodLifessence", ItemsMod.LIFE_ESSENCE);
-        OreDictionary.registerOre("blockLifeessence", BlocksMod.LIFE_ESSENCE_BLOCK);
         OreDictionary.registerOre("listAllmilk", ItemsMod.MILK_BOTTLE);
         OreDictionary.registerOre("foodChocolatemilk", ItemsMod.MILK_CHOCOLATE);
         OreDictionary.registerOre("foodMilkchocolate", ItemsMod.MILK_CHOCOLATE);
-        OreDictionary.registerOre("foodNatureapple", ItemsMod.NATURE_APPLE);
-        OreDictionary.registerOre("foodNatureessence", ItemsMod.NATURE_ESSENCE);
-        OreDictionary.registerOre("blockNatureessence", BlocksMod.NATURE_ESSENCE_BLOCK);
-        OreDictionary.registerOre("seedNature", ItemsMod.NATURE_SEEDS);
-        OreDictionary.registerOre("listAllseed", ItemsMod.NATURE_SEEDS);
         OreDictionary.registerOre("cropOnion", ItemsMod.ONION);
         OreDictionary.registerOre("listAllveggie", ItemsMod.ONION);
         OreDictionary.registerOre("foodPumpkinsoup", ItemsMod.PUMPKIN_SOUP);
@@ -117,12 +109,6 @@ public class OreDictionaryHandler
         OreDictionary.registerOre("listAllseed", ItemsMod.SOY_SEEDS);
         OreDictionary.registerOre("cropSoy", ItemsMod.SOYBEAN);
         OreDictionary.registerOre("cropSoybean", ItemsMod.SOYBEAN);
-        OreDictionary.registerOre("foodUniverseapple", ItemsMod.UNIVERSE_APPLE);
-        OreDictionary.registerOre("foodUniverseessence", ItemsMod.UNIVERSE_ESSENCE);
-        OreDictionary.registerOre("blockUniverseessence", BlocksMod.UNIVERSE_ESSENCE_BLOCK);
         OreDictionary.registerOre("itemVegetablegelatin", ItemsMod.VEGETABLE_GELATIN);
-        OreDictionary.registerOre("foodWorldapple", ItemsMod.WORLD_APPLE);
-        OreDictionary.registerOre("foodWorldessence", ItemsMod.WORLD_ESSENCE);
-        OreDictionary.registerOre("blockWorldessence", BlocksMod.WORLD_ESSENCE_BLOCK);
     }
 }

@@ -57,6 +57,6 @@ public class ItemAboveWaterKelpSeeds extends Item implements IHasModel, IPlantab
     @Override
     public IBlockState getPlant(IBlockAccess world, BlockPos pos)
     {
-        return BlocksMod.NATURE_PLANT.getDefaultState();
+        return BlocksMod.ABOVEWATER_KELP_PLANT.getDefaultState();
     }
 }

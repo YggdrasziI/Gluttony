@@ -6,7 +6,6 @@ import java.util.List;
 import fr.zilkoniss.gluttony.GluttonyMod;
 import fr.zilkoniss.gluttony.objects.items.ItemBase;
 import fr.zilkoniss.gluttony.objects.items.ItemDriedKelp;
-import fr.zilkoniss.gluttony.objects.items.ItemNatureSeeds;
 import fr.zilkoniss.gluttony.objects.items.ItemRiceSeeds;
 import fr.zilkoniss.gluttony.objects.items.ItemRyeSeeds;
 import fr.zilkoniss.gluttony.objects.items.MilkBottle;
@@ -45,7 +44,6 @@ public class ItemsMod
     public static final Item RYE_SEEDS = new ItemRyeSeeds("rye_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item BARLEY_SEEDS = new ItemBarleySeeds("barley_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item RICE_SEEDS = new ItemRiceSeeds("rice_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
-    public static final Item NATURE_SEEDS = new ItemNatureSeeds("nature_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item ABOVEWATER_KELP_SEEDS = new ItemAboveWaterKelpSeeds("abovewater_kelp_seeds").setCreativeTab(GluttonyMod.GLUTTONY);
     
     //Vegetables
@@ -99,21 +97,10 @@ public class ItemsMod
     public static final Item COOKED_FLESH = new GluttonyItemFood("cooked_flesh", 8,20F, false).setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item COOKED_RICE = new GluttonyItemFood("cooked_rice", 5,6.7F, false).setCreativeTab(GluttonyMod.GLUTTONY);
     
-    public static final Item NATURE_APPLE = new GluttonyApple("nature_apple", 8,10F, false).setCreativeTab(GluttonyMod.GLUTTONY);
-    public static final Item LIFE_APPLE = new GluttonyApple("life_apple", 10,12F, false).setCreativeTab(GluttonyMod.GLUTTONY);
-    public static final Item WORLD_APPLE = new GluttonyApple("world_apple", 12,14F, false).setCreativeTab(GluttonyMod.GLUTTONY);
-    public static final Item UNIVERSE_APPLE = new GluttonyApple("universe_apple", 14,16F, false).setCreativeTab(GluttonyMod.GLUTTONY);
-    
     //Drink
     public static final Item MILK_BOTTLE = new ItemBase("milk_bottle").setCreativeTab(GluttonyMod.GLUTTONY);
     public static final Item HOT_MILK_BOTTLE = new MilkBottle("hot_milk_bottle", 4, 1.9F, false);
     public static final Item CHOCOLATE_MILK_BOTTLE = new MilkBottle("chocolate_milk_bottle", 7, 2.7F, false);
-    
-    //Other
-    public static final Item NATURE_ESSENCE = new GluttonyEssence("nature_essence", 1, 0F, false);
-    public static final Item LIFE_ESSENCE = new GluttonyEssence("life_essence", 3, 1F, false);
-    public static final Item WORLD_ESSENCE = new GluttonyEssence("world_essence", 5, 2F, false);
-    public static final Item UNIVERSE_ESSENCE = new GluttonyEssence("universe_essence", 7, 3F, false);
     
     //Potato
     public static final Item BIG_POTATO = new GluttonyPotato1("big_potato", 2, 0.3F, false);
